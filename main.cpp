@@ -61,7 +61,6 @@ int main(){
         }
 
         else if(op == "5"){
-            system("pause");
             run = false;
         }
     }
